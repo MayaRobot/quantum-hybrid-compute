@@ -1,4 +1,4 @@
-![TensorFlow Quantum](./docs/images/logo/tf_quantum_circle.jpg)
+<img src="https://www.xibyte.com/wp-content/uploads/2021/11/CHIPS.png" width="90px"><br>
 
 ---
 
